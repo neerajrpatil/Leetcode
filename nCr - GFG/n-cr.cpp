@@ -12,10 +12,23 @@ class Solution{
 public:
     int nCr(int n, int r){
         // code here
-        if(n<r)return 0;
+        //1. pascal triangle method, draw triangle 
+        //2 k sare methods 
+        /*if(n<r)return 0;
         if(n==r || r==0)return 1;
         if(dp[n][r]!=-1)return dp[n][r];
         return dp[n][r]= (nCr(n-1,r)+nCr(n-1,r-1))%mod;
+        */
+        for(int i=0;i<=n;i++){
+            for(int j=0;j<=r;j++){
+                if(i<j)dp[i][j]=0;
+                else if(i==j || j==0)dp[i][j]=1;
+                else{
+                    dp[i][j]=(dp[i-1][j])%mod+(dp[i-1][j-1])%mod;
+                }
+            }
+        }
+        return dp[n][r]%mod;
     }
 };
 
