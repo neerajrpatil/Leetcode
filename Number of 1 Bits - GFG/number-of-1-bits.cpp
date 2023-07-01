@@ -7,6 +7,13 @@ class Solution {
   public:
     int setBits(int N) {
         // Write Your Code here
+        
+        int ans=0;
+        while(N!=0){
+            if(N&1==1)ans++;
+            N/=2;      //right shift, can use N<<1 as int type
+        }
+        return ans;
       return __builtin_popcount(N); //this is O(1)XD
     }
 };
