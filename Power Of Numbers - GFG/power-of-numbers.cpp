@@ -15,8 +15,8 @@ class Solution{
        // normal approch is O(1),but can be done in O(logn)
        //binary exponanation
        long long ans=1;
-       long long N=n;
        
+       long long N=n;
        while(R>0){
            if(R&1){
                ans=(ans*N)%1000000007;
