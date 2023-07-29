@@ -11,13 +11,19 @@ public:
 	// largest elements
 	int print2largest(int arr[], int n) {
 	    // code here
-	   sort(arr,arr+n);
-	   int r=n-1;
-	   int ele=arr[r];
-	   while(r>=0 && arr[r]==ele)r--;
-	   if(r==-1)return -1;
-	   return arr[r];
-	}
+	   //sort
+	   //2 pass, one more max,one more 2nd max
+	   int a=-1,b=-1;
+	   for(int i=0;i<n;i++){
+	       if(a<arr[i])a=arr[i];
+	   }
+	   for(int i=0;i<n;i++){
+	       if(b<arr[i]&&arr[i]!=a)b=arr[i];
+	   }
+	   return b;
+	   
+	   //2 variables method
+	   }
 };
 
 //{ Driver Code Starts.
