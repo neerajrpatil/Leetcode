@@ -36,6 +36,7 @@ public:
         sort(stalls.begin(),stalls.end());
         //end shd be max-min element
         int e=stalls[n-1]-stalls[0];
+        e=INT_MAX;
         int ans=INT_MIN;
         while(s<=e){
             int mid=s+(e-s)/2;
