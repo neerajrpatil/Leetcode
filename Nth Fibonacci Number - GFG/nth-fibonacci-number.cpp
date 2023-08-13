@@ -10,12 +10,18 @@ class Solution {
     int nthFibonacci(int n){
         // code here
         vector<int>fib(n+1);
-        fib[0]=0;
-        fib[1]=1;
+        int p2=0;
+        int p1=1;
+        
+        if(n==1)return n;
+        int cur;
         for(int i=2;i<=n;i++){
-            fib[i]=((fib[i-1])%1000000007+(fib[i-2])%1000000007)%1000000007;
+            cur=((p2)%1000000007+(p1)%1000000007)%1000000007;
+            p2=p1;
+            p1=cur;
+            
         }
-        return fib[n];
+        return cur;
                  
     }
 };
