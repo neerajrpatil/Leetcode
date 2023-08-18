@@ -10,12 +10,11 @@ using namespace std;
 class Solution{
 public:
     vector<int> leftSmaller(int n, int a[]){
-        // code here
         stack<int>s;
         s.push(-1);
         vector<int>v;
         for(int i=0;i<n;i++){
-            while(!s.empty() && s.top()>=a[i]){
+            while(s.top()>=a[i]){
                 s.pop();
             }
             v.push_back(s.top());
