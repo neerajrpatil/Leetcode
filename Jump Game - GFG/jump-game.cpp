@@ -20,12 +20,14 @@ class Solution {
         //specification i can use greedy 
         
         int maxReach=0; //i can reach all ind till here
-        for(int i=0;i<N-1;i++){
+        for(int i=0;i<=N-1;i++){
             if(i <= maxReach){ //reachable
                 maxReach=max(maxReach,i+A[i]);
             }
+            else return false;
         }
-        return maxReach>= N-1;
+        return true;
+        //return maxReach>= N-1;
     }
 };
 
