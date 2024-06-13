@@ -1,11 +1,11 @@
 class Solution {
 public:
-    unordered_map<int,unordered_map<int,double>>dp;
+    double dp[101][101];
     double f(int i,int k,vector<int>& nums,vector<int>& pre){
         if(i==nums.size())return 0;
         if(k==0)return -1e9;
-        //if(dp[i][k]!=-1.0)return dp[i][k];
-        if(dp.count(i)&&dp[i].count(k))return dp[i][k];
+        if(dp[i][k]!=-1.0)return dp[i][k];
+
         double ans=0;
         for(int j=i;j<nums.size();j++){
             double cur=0;
@@ -16,7 +16,11 @@ public:
         return dp[i][k]=ans;
     }
     double largestSumOfAverages(vector<int>& nums, int k) {
-        //memset(dp,-1.0,sizeof(dp));
+       for(int i=0;i<101;i++){
+        for(int j=0;j<101;j++){
+            dp[i][j]=-1.0;
+        }
+       }
         int n=nums.size();
         vector<int>pre(n);
         partial_sum(begin(nums),end(nums),begin(pre));
