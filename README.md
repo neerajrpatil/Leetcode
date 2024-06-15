@@ -54,3 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajrpatil/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/neerajrpatil/Leetcode/tree/master/0584-find-customer-referee) |
