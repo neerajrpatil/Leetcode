@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/neerajrpatil/Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/neerajrpatil/Leetcode/tree/master/0502-ipo) |
 | [0831-largest-sum-of-averages](https://github.com/neerajrpatil/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajrpatil/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/neerajrpatil/Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/neerajrpatil/Leetcode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajrpatil/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1503-reducing-dishes](https://github.com/neerajrpatil/Leetcode/tree/master/1503-reducing-dishes) |
