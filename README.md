@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/neerajrpatil/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0868-push-dominoes](https://github.com/neerajrpatil/Leetcode/tree/master/0868-push-dominoes) |
 # String
 |  |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/neerajrpatil/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2850-construct-the-longest-new-string](https://github.com/neerajrpatil/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 # Brainteaser
 |  |
@@ -68,3 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/neerajrpatil/Leetcode/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/neerajrpatil/Leetcode/tree/master/0633-sum-of-square-numbers) |
