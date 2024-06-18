@@ -12,14 +12,13 @@ public:
 #define fi first
 #define se second
     int maxProfitAssignment(vector<int>& difficulty, vector<int>& profit, vector<int>& worker) {
+        /*
         V(pii) v;
         int n=difficulty.size(),m=worker.size();
         for(int i=0;i<n;i++){
             v.push_back({difficulty[i],profit[i]});
         }
-        sort(begin(v),end(v),[&](pii a, pii b){
-            return a.fi<b.fi;
-        });
+        sort(begin(v),end(v));
         vector<int>maxTillInd(n);
         int val=0;
         for(int i=0;i<n;i++){
@@ -36,5 +35,26 @@ public:
             ans+=maxTillInd[j];
         }
         return ans;
+        */
+        V(pii) v;
+        int n=difficulty.size(),m=worker.size();
+        for(int i=0;i<n;i++){
+            v.push_back({difficulty[i],profit[i]});
+        }
+        int i=0;
+        sort(begin(v),end(v));
+        sort(begin(worker),end(worker));
+        priority_queue<int>pq;
+        int ans=0;
+        for(int j=0;j<m;j++){
+            while(i<n && v[i].fi<=worker[j]){
+                pq.push(v[i].second);
+                i++; //lazy greedy
+            }
+            if(!pq.empty())
+            ans+=pq.top();
+        }
+        return ans;
+        
     }
 };
