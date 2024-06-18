@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0831-largest-sum-of-averages](https://github.com/neerajrpatil/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0868-push-dominoes](https://github.com/neerajrpatil/Leetcode/tree/master/0868-push-dominoes) |
 | [1503-reducing-dishes](https://github.com/neerajrpatil/Leetcode/tree/master/1503-reducing-dishes) |
+| [1680-count-all-possible-routes](https://github.com/neerajrpatil/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [2850-construct-the-longest-new-string](https://github.com/neerajrpatil/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 # Array
 |  |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0831-largest-sum-of-averages](https://github.com/neerajrpatil/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajrpatil/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1503-reducing-dishes](https://github.com/neerajrpatil/Leetcode/tree/master/1503-reducing-dishes) |
+| [1680-count-all-possible-routes](https://github.com/neerajrpatil/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajrpatil/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Greedy
 |  |
@@ -75,3 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/neerajrpatil/Leetcode/tree/master/0633-sum-of-square-numbers) |
+# Memoization
+|  |
+| ------- |
+| [1680-count-all-possible-routes](https://github.com/neerajrpatil/Leetcode/tree/master/1680-count-all-possible-routes) |
