@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0831-largest-sum-of-averages](https://github.com/neerajrpatil/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0868-push-dominoes](https://github.com/neerajrpatil/Leetcode/tree/master/0868-push-dominoes) |
 | [1503-reducing-dishes](https://github.com/neerajrpatil/Leetcode/tree/master/1503-reducing-dishes) |
+| [1522-stone-game-iii](https://github.com/neerajrpatil/Leetcode/tree/master/1522-stone-game-iii) |
 | [1680-count-all-possible-routes](https://github.com/neerajrpatil/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/neerajrpatil/Leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2850-construct-the-longest-new-string](https://github.com/neerajrpatil/Leetcode/tree/master/2850-construct-the-longest-new-string) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/neerajrpatil/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajrpatil/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1503-reducing-dishes](https://github.com/neerajrpatil/Leetcode/tree/master/1503-reducing-dishes) |
+| [1522-stone-game-iii](https://github.com/neerajrpatil/Leetcode/tree/master/1522-stone-game-iii) |
 | [1680-count-all-possible-routes](https://github.com/neerajrpatil/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajrpatil/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/neerajrpatil/Leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/neerajrpatil/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1522-stone-game-iii](https://github.com/neerajrpatil/Leetcode/tree/master/1522-stone-game-iii) |
 | [2850-construct-the-longest-new-string](https://github.com/neerajrpatil/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 # Brainteaser
 |  |
@@ -92,3 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/neerajrpatil/Leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
+# Game Theory
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/neerajrpatil/Leetcode/tree/master/1522-stone-game-iii) |
