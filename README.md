@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/neerajrpatil/Leetcode/tree/master/0016-3sum-closest) |
 | [0633-sum-of-square-numbers](https://github.com/neerajrpatil/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0852-friends-of-appropriate-ages](https://github.com/neerajrpatil/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/neerajrpatil/Leetcode/tree/master/0853-most-profit-assigning-work) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/neerajrpatil/Leetcode/tree/master/0016-3sum-closest) |
 | [0330-patching-array](https://github.com/neerajrpatil/Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/neerajrpatil/Leetcode/tree/master/0502-ipo) |
 | [0831-largest-sum-of-averages](https://github.com/neerajrpatil/Leetcode/tree/master/0831-largest-sum-of-averages) |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/neerajrpatil/Leetcode/tree/master/0016-3sum-closest) |
 | [0502-ipo](https://github.com/neerajrpatil/Leetcode/tree/master/0502-ipo) |
 | [0852-friends-of-appropriate-ages](https://github.com/neerajrpatil/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/neerajrpatil/Leetcode/tree/master/0853-most-profit-assigning-work) |
