@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0831-largest-sum-of-averages](https://github.com/neerajrpatil/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0853-most-profit-assigning-work](https://github.com/neerajrpatil/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajrpatil/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1138-grumpy-bookstore-owner](https://github.com/neerajrpatil/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1503-reducing-dishes](https://github.com/neerajrpatil/Leetcode/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/neerajrpatil/Leetcode/tree/master/1522-stone-game-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/neerajrpatil/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -103,3 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1522-stone-game-iii](https://github.com/neerajrpatil/Leetcode/tree/master/1522-stone-game-iii) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/neerajrpatil/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
