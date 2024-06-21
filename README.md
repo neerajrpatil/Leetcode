@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-reducing-dishes](https://github.com/neerajrpatil/Leetcode/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/neerajrpatil/Leetcode/tree/master/1522-stone-game-iii) |
 | [1680-count-all-possible-routes](https://github.com/neerajrpatil/Leetcode/tree/master/1680-count-all-possible-routes) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/neerajrpatil/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/neerajrpatil/Leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2850-construct-the-longest-new-string](https://github.com/neerajrpatil/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 # Array
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/neerajrpatil/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/neerajrpatil/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1680-count-all-possible-routes](https://github.com/neerajrpatil/Leetcode/tree/master/1680-count-all-possible-routes) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/neerajrpatil/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajrpatil/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/neerajrpatil/Leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 # Greedy
@@ -118,3 +120,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/neerajrpatil/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/neerajrpatil/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+# Backtracking
+|  |
+| ------- |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/neerajrpatil/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+# Bit Manipulation
+|  |
+| ------- |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/neerajrpatil/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+# Bitmask
+|  |
+| ------- |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/neerajrpatil/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
