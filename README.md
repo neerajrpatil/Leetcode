@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/neerajrpatil/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajrpatil/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/neerajrpatil/Leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/neerajrpatil/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 # Greedy
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-friends-of-appropriate-ages](https://github.com/neerajrpatil/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/neerajrpatil/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/neerajrpatil/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/neerajrpatil/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 # Memoization
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/neerajrpatil/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/neerajrpatil/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/neerajrpatil/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 # Backtracking
 |  |
 | ------- |
@@ -131,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/neerajrpatil/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/neerajrpatil/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 # Bitmask
 |  |
 | ------- |
