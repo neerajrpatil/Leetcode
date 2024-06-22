@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-friends-of-appropriate-ages](https://github.com/neerajrpatil/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/neerajrpatil/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0868-push-dominoes](https://github.com/neerajrpatil/Leetcode/tree/master/0868-push-dominoes) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/neerajrpatil/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 # String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajrpatil/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/neerajrpatil/Leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/neerajrpatil/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/neerajrpatil/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 # Greedy
 |  |
 | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/neerajrpatil/Leetcode/tree/master/0502-ipo) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/neerajrpatil/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 # Binary Search
 |  |
 | ------- |
@@ -139,3 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/neerajrpatil/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+# Simulation
+|  |
+| ------- |
+| [2553-total-cost-to-hire-k-workers](https://github.com/neerajrpatil/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
