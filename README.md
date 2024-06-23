@@ -146,3 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2553-total-cost-to-hire-k-workers](https://github.com/neerajrpatil/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/neerajrpatil/Leetcode/tree/master/1916-find-center-of-star-graph) |
