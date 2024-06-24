@@ -22,6 +22,8 @@ public:
         return cnt;
         */
         //i-j+1==(k)
+
+        /*
         int n=nums.size();
         int cnt=0,ans=0;
         vector<int>flip(n,0);
@@ -30,6 +32,19 @@ public:
             if((nums[i]+cnt)%2==0){
                 if(i+k>n)return -1;
                 flip[i]=1;
+                cnt++;
+                ans++;
+            }
+        }
+        return ans;
+        */
+        int n=nums.size();
+        int cnt=0,ans=0;
+        for(int i=0;i<n;i++){
+            if(i-k>=0 && nums[i-k]==-1)cnt--;
+            if((nums[i]+cnt)%2==0){
+                if(i+k>n)return -1;
+                nums[i]=-1;
                 cnt++;
                 ans++;
             }
