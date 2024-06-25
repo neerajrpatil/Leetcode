@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/neerajrpatil/Leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/neerajrpatil/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/neerajrpatil/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/neerajrpatil/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 # Greedy
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/neerajrpatil/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1522-stone-game-iii](https://github.com/neerajrpatil/Leetcode/tree/master/1522-stone-game-iii) |
 | [2850-construct-the-longest-new-string](https://github.com/neerajrpatil/Leetcode/tree/master/2850-construct-the-longest-new-string) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/neerajrpatil/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 # Brainteaser
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajrpatil/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/neerajrpatil/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 # Database
 |  |
 | ------- |
@@ -172,3 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/neerajrpatil/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Hash Table
+|  |
+| ------- |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/neerajrpatil/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
