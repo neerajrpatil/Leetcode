@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/neerajrpatil/Leetcode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/neerajrpatil/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajrpatil/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1503-reducing-dishes](https://github.com/neerajrpatil/Leetcode/tree/master/1503-reducing-dishes) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajrpatil/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2850-construct-the-longest-new-string](https://github.com/neerajrpatil/Leetcode/tree/master/2850-construct-the-longest-new-string) |
@@ -179,3 +180,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/neerajrpatil/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
