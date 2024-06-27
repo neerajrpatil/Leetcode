@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/neerajrpatil/Leetcode/tree/master/0868-push-dominoes) |
+| [1032-satisfiability-of-equality-equations](https://github.com/neerajrpatil/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-friends-of-appropriate-ages](https://github.com/neerajrpatil/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/neerajrpatil/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajrpatil/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1032-satisfiability-of-equality-equations](https://github.com/neerajrpatil/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/neerajrpatil/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/neerajrpatil/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1503-reducing-dishes](https://github.com/neerajrpatil/Leetcode/tree/master/1503-reducing-dishes) |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Graph
 |  |
 | ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/neerajrpatil/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1916-find-center-of-star-graph](https://github.com/neerajrpatil/Leetcode/tree/master/1916-find-center-of-star-graph) |
 # Queue
 |  |
@@ -204,3 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Union Find
+|  |
+| ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/neerajrpatil/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
