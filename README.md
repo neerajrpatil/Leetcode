@@ -187,16 +187,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
