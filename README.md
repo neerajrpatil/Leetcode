@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1285-balance-a-binary-search-tree](https://github.com/neerajrpatil/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1503-reducing-dishes](https://github.com/neerajrpatil/Leetcode/tree/master/1503-reducing-dishes) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajrpatil/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/neerajrpatil/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2850-construct-the-longest-new-string](https://github.com/neerajrpatil/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 # Sorting
 |  |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajrpatil/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1503-reducing-dishes](https://github.com/neerajrpatil/Leetcode/tree/master/1503-reducing-dishes) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajrpatil/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/neerajrpatil/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Prefix Sum
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0502-ipo](https://github.com/neerajrpatil/Leetcode/tree/master/0502-ipo) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/neerajrpatil/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/neerajrpatil/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/neerajrpatil/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 # Binary Search
 |  |
@@ -166,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1032-satisfiability-of-equality-equations](https://github.com/neerajrpatil/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1916-find-center-of-star-graph](https://github.com/neerajrpatil/Leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/neerajrpatil/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Queue
 |  |
 | ------- |
