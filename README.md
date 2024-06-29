@@ -237,4 +237,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
+## Graph
+|  |
+| ------- |
+| [0918-reachable-nodes-in-subdivided-graph](https://github.com/neerajrpatil/Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0918-reachable-nodes-in-subdivided-graph](https://github.com/neerajrpatil/Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [0918-reachable-nodes-in-subdivided-graph](https://github.com/neerajrpatil/Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 <!---LeetCode Topics End-->
