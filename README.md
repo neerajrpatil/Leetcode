@@ -220,10 +220,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 ## Math
 |  |
@@ -272,4 +274,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1942-primary-department-for-each-employee](https://github.com/neerajrpatil/Leetcode/tree/master/1942-primary-department-for-each-employee) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
