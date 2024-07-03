@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/neerajrpatil/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/neerajrpatil/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 ## String
 |  |
 | ------- |
