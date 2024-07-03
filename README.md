@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/neerajrpatil/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/neerajrpatil/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Math
 |  |
 | ------- |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/neerajrpatil/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/neerajrpatil/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/neerajrpatil/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -308,4 +311,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/neerajrpatil/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Sliding Window
+|  |
+| ------- |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/neerajrpatil/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
+## Counting
+|  |
+| ------- |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/neerajrpatil/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 <!---LeetCode Topics End-->
