@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/neerajrpatil/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -293,4 +294,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+## String
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/neerajrpatil/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/neerajrpatil/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/neerajrpatil/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
