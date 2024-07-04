@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0862-find-and-replace-in-string](https://github.com/neerajrpatil/Leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/neerajrpatil/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0862-find-and-replace-in-string](https://github.com/neerajrpatil/Leetcode/tree/master/0862-find-and-replace-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0862-find-and-replace-in-string](https://github.com/neerajrpatil/Leetcode/tree/master/0862-find-and-replace-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/neerajrpatil/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/neerajrpatil/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Bit Manipulation
