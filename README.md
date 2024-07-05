@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-find-and-replace-in-string](https://github.com/neerajrpatil/Leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1962-single-threaded-cpu](https://github.com/neerajrpatil/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/neerajrpatil/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Hash Table
 |  |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/neerajrpatil/Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+| [1962-single-threaded-cpu](https://github.com/neerajrpatil/Leetcode/tree/master/1962-single-threaded-cpu) |
 ## Shortest Path
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0862-find-and-replace-in-string](https://github.com/neerajrpatil/Leetcode/tree/master/0862-find-and-replace-in-string) |
+| [1962-single-threaded-cpu](https://github.com/neerajrpatil/Leetcode/tree/master/1962-single-threaded-cpu) |
 ## Dynamic Programming
 |  |
 | ------- |
