@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0862-find-and-replace-in-string](https://github.com/neerajrpatil/Leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/neerajrpatil/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 ## String
@@ -331,4 +333,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/neerajrpatil/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
