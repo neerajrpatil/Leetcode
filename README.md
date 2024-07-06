@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
+| [2645-pass-the-pillow](https://github.com/neerajrpatil/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Union Find
 |  |
 | ------- |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/neerajrpatil/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/neerajrpatil/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Binary Indexed Tree
 |  |
 | ------- |
