@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-find-and-replace-in-string](https://github.com/neerajrpatil/Leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/neerajrpatil/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/neerajrpatil/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/neerajrpatil/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/neerajrpatil/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/neerajrpatil/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/neerajrpatil/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/neerajrpatil/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Math
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/neerajrpatil/Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [0922-possible-bipartition](https://github.com/neerajrpatil/Leetcode/tree/master/0922-possible-bipartition) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/neerajrpatil/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/neerajrpatil/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/neerajrpatil/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Heap (Priority Queue)
 |  |
@@ -280,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0922-possible-bipartition](https://github.com/neerajrpatil/Leetcode/tree/master/0922-possible-bipartition) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/neerajrpatil/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/neerajrpatil/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Topological Sort
 |  |
 | ------- |
@@ -303,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0862-find-and-replace-in-string](https://github.com/neerajrpatil/Leetcode/tree/master/0862-find-and-replace-in-string) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/neerajrpatil/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1962-single-threaded-cpu](https://github.com/neerajrpatil/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/neerajrpatil/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
