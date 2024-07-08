@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/neerajrpatil/Leetcode/tree/master/0684-redundant-connection) |
 | [0922-possible-bipartition](https://github.com/neerajrpatil/Leetcode/tree/master/0922-possible-bipartition) |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/neerajrpatil/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/neerajrpatil/Leetcode/tree/master/0684-redundant-connection) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/neerajrpatil/Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [0922-possible-bipartition](https://github.com/neerajrpatil/Leetcode/tree/master/0922-possible-bipartition) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/neerajrpatil/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/neerajrpatil/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/neerajrpatil/Leetcode/tree/master/0684-redundant-connection) |
 | [0922-possible-bipartition](https://github.com/neerajrpatil/Leetcode/tree/master/0922-possible-bipartition) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/neerajrpatil/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/neerajrpatil/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -286,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/neerajrpatil/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/neerajrpatil/Leetcode/tree/master/0684-redundant-connection) |
 | [0922-possible-bipartition](https://github.com/neerajrpatil/Leetcode/tree/master/0922-possible-bipartition) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/neerajrpatil/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/neerajrpatil/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
