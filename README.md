@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-find-and-replace-in-string](https://github.com/neerajrpatil/Leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/neerajrpatil/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/neerajrpatil/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/neerajrpatil/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/neerajrpatil/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/neerajrpatil/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/neerajrpatil/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Union Find
 |  |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/neerajrpatil/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/neerajrpatil/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/neerajrpatil/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Binary Indexed Tree
@@ -358,4 +361,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/neerajrpatil/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/neerajrpatil/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/neerajrpatil/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
