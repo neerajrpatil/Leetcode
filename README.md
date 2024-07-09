@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/neerajrpatil/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1803-average-waiting-time](https://github.com/neerajrpatil/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/neerajrpatil/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/neerajrpatil/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/neerajrpatil/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1803-average-waiting-time](https://github.com/neerajrpatil/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/neerajrpatil/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/neerajrpatil/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/neerajrpatil/Leetcode/tree/master/2645-pass-the-pillow) |
