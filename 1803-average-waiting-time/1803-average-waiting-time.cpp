@@ -1,24 +1,19 @@
 class Solution {
 public:
     double averageWaitingTime(vector<vector<int>>& customers) {
-        long long pT=0,wT=0;
         int n=customers.size();
-        int curT=customers[0][0];
+        int prevFinished=0;
+        long long time=0;
         for(auto it:customers){
-            int arrival=it[0],task=it[1];
-            if(arrival<=curT){
-                pT+=task;
-                wT+=curT-arrival;
-                curT+=task;
+            if(it[0]<prevFinished){
+                time+=it[1]+prevFinished-it[0];
+                prevFinished+=it[1];
             }
             else{
-                curT=arrival+task;
-                pT+=task;
+                time+=it[1];
+                prevFinished= it[0]+it[1];
             }
         }
-        return 1.0*(pT+wT )/customers.size();
-
-
-
+        return 1.0*time/n;
     }
 };
