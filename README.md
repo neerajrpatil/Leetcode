@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/neerajrpatil/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0690-employee-importance](https://github.com/neerajrpatil/Leetcode/tree/master/0690-employee-importance) |
 | [0862-find-and-replace-in-string](https://github.com/neerajrpatil/Leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neerajrpatil/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0690-employee-importance](https://github.com/neerajrpatil/Leetcode/tree/master/0690-employee-importance) |
 | [0989-largest-component-size-by-common-factor](https://github.com/neerajrpatil/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1087-longest-arithmetic-subsequence](https://github.com/neerajrpatil/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/neerajrpatil/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/neerajrpatil/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/neerajrpatil/Leetcode/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/neerajrpatil/Leetcode/tree/master/0690-employee-importance) |
 | [0922-possible-bipartition](https://github.com/neerajrpatil/Leetcode/tree/master/0922-possible-bipartition) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/neerajrpatil/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/neerajrpatil/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/neerajrpatil/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/neerajrpatil/Leetcode/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/neerajrpatil/Leetcode/tree/master/0690-employee-importance) |
 | [0922-possible-bipartition](https://github.com/neerajrpatil/Leetcode/tree/master/0922-possible-bipartition) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/neerajrpatil/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/neerajrpatil/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -404,4 +408,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/neerajrpatil/Leetcode/tree/master/0011-container-with-most-water) |
+## Tree
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/neerajrpatil/Leetcode/tree/master/0690-employee-importance) |
 <!---LeetCode Topics End-->
